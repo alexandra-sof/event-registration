@@ -2,28 +2,34 @@
 
 The project consists of a back-end management system responsible for the automatic processing of a list of participants to an event.
 
-##Specifications:
-The app consists of three components:
-- Guest class
-- GuestsList class
-- Main class
 
-The event registration management system will provide the user with a set of possible commands and a command to close the application.The program will receive commands (and respond to each command in turn) until the shutdown command is received.
+## Components
 
+The application consists of three components:
+- **Guest class**: the representation of one guest
+- **GuestsList class**: the management of the list of participants
+- **Main class**: the engine of the application. It will accept commands from the user and perfom the appropriate actions/respond to queries.
+
+
+## User interaction
+
+The application provides the user with a set of possible commands and interacts with the user through the command line. The program will receive commands (and respond to each command in turn) until the shutdown command is received.
+
+
+### The set of commands
 ```
-help         - Afiseaza aceasta lista de comenzi
-add          - Adauga o noua persoana (inscriere)
-check        - Verifica daca o persoana este inscrisa la eveniment
-remove       - Sterge o persoana existenta din lista
-update       - Actualizeaza detaliile unei persoane
-guests       - Lista de persoane care participa la eveniment
-waitlist     - Persoanele din lista de asteptare
-available    - Numarul de locuri libere
-guests_no    - Numarul de persoane care participa la eveniment
-waitlist_no  - Numarul de persoane din lista de asteptare
-subscribe_no - Numarul total de persoane inscrise
-search       - Cauta toti invitatii conform sirului de caractere introdus
-quit         - Inchide aplicatia
+help         - Show this list of commands
+add          - Add a new person (registration)
+check        - Check if a person is registered to the event
+remove       - Delete an existing person from the list
+update       - Updates a person's details
+guests       - The list of people participating in the event
+waitlist     - People on the waiting list
+available    - The number of available tickets
+guests_no    - The number of people participating in the event
+waitlist_no  - The number of people on the waiting list
+subscribe_no - The total number of registered people
+search       - Search all guests according to the entered string of characters
+quit         - Close the application
 ```
-
 
