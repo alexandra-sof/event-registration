@@ -34,6 +34,7 @@ quit         - Close the application
 ```
 ## Example of running the application
 
+![pic1](Screenshots/apic1.jpg)
 ![pic1](Screenshots/aapic1.jpg)
 ![pic2](Screenshots/aapic2.jpg)
 ![pic3](Screenshots/aapic3.jpg)
