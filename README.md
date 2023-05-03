@@ -34,12 +34,10 @@ quit         - Close the application
 ```
 ## Example of running the application
 
-![pic1](Screenshots/pic1.jpg)
-![pic2](Screenshots/pic2.jpg)
-![pic3](Screenshots/pic3.jpg)
-![pic4](Screenshots/pic4.jpg)
-![pic5](Screenshots/pic5.jpg)
-![pic6](Screenshots/pic6.jpg)
-![pic7](Screenshots/pic7.jpg)
-![pic8](Screenshots/pic8.jpg)
+![pic1](Screenshots/apic1.jpg)
+![pic2](Screenshots/apic2.jpg)
+![pic3](Screenshots/apic3.jpg)
+![pic4](Screenshots/apic4.jpg)
+![pic5](Screenshots/apic5.jpg)
+![pic6](Screenshots/apic6.jpg)
 
