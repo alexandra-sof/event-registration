@@ -32,7 +32,14 @@ subscribe_no - The total number of registered people
 search       - Search all guests according to the entered string of characters
 quit         - Close the application
 ```
-## Examples from the application
+## Example of running the application
 
-
+![pic1](Screenshots/pic1.jpg)
+![pic2](Screenshots/pic2.jpg)
+![pic3](Screenshots/pic3.jpg)
+![pic4](Screenshots/pic4.jpg)
+![pic5](Screenshots/pic5.jpg)
+![pic6](Screenshots/pic6.jpg)
+![pic7](Screenshots/pic7.jpg)
+![pic8](Screenshots/pic8.jpg)
 
