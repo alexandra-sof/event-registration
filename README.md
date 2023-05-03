@@ -18,7 +18,7 @@ The application provides the user with a set of possible commands and interacts 
 
 ### The set of commands
 ```
-help         - Show this list of commands
+help         - Show the list of commands
 add          - Add a new person (registration)
 check        - Check if a person is registered to the event
 remove       - Delete an existing person from the list
@@ -32,4 +32,7 @@ subscribe_no - The total number of registered people
 search       - Search all guests according to the entered string of characters
 quit         - Close the application
 ```
+## Examples from the application
+
+
 
