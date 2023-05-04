@@ -1,9 +1,9 @@
-# Event Registration Management System
+## Event Registration Management System
 
 The project consists of a back-end management system responsible for the automatic processing of a list of participants to an event.
 
 
-## Components
+### Components
 
 The application consists of three components:
 - **Guest class**: the representation of one guest
@@ -11,12 +11,12 @@ The application consists of three components:
 - **Main class**: the engine of the application. It will accept commands from the user and perfom the appropriate actions/respond to queries.
 
 
-## User interaction
+### User interaction
 
 The application provides the user with a set of possible commands and interacts with the user through the command line. The program will receive commands (and respond to each command in turn) until the shutdown command is received.
 
 
-### The set of commands
+#### The set of commands
 ```
 help         - Show the list of commands
 add          - Add a new person (registration)
@@ -32,7 +32,7 @@ subscribe_no - The total number of registered people
 search       - Search all guests according to the entered string of characters
 quit         - Close the application
 ```
-## Example of running the application
+### Example of running the application
 
 ![pic1](Screenshots/pic1.jpg)
 ![pic2](Screenshots/pic2.jpg)
